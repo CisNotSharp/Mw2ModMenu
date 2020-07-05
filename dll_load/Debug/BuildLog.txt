@@ -1,0 +1,24 @@
+﻿Build started 08/06/2014 00:05:27.
+     1>Project "C:\Users\Alex\Desktop\ImJtagModz W2 Tu8 Menu Base V2\dll_load\dll_load.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\dll_load.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Xbox 360 SDK\bin\win32\CL.exe /c /Zi /nologo /W3 /WX- /Od /D _DEBUG /D _XBOX /GF- /Gm /MTd /GS- /Gy- /fp:fast /fp:except- /Zc:wchar_t /Zc:forScope /GR- /openmp- /Yu"StdAfx.h" /Fp"C:\Users\Alex\Desktop\ImJtagModz W2 Tu8 Menu Base V2\dll_load\Debug\dll_load.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP dll_load.cpp /FI"C:\Program Files (x86)\Microsoft Xbox 360 SDK\include\xbox\xbox_intellisense_platform.h"
+         dll_load.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Xbox 360 SDK\bin\win32\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Alex\Desktop\ImJtagModz W2 Tu8 Menu Base V2\dll_load\Debug\$dlllinker.dll" /INCREMENTAL /NOLOGO /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Alex\Desktop\ImJtagModz W2 Tu8 Menu Base V2\dll_load\Debug\dll_load.pdb" /STACK:"262144","262144" /TLBID:1 /ENTRY:"DllMain" /IMPLIB:"C:\Users\Alex\Desktop\ImJtagModz W2 Tu8 Menu Base V2\dll_load\Debug\$dlllinker.lib" Debug\dll_load.obj
+         Debug\stdafx.obj /ignore:4089 /dll /entry:"_DllMainCRTStartup" /include:"XboxKrnlBuildNumber" /ALIGN:128,4096 /XEX:NO
+       ImageXex:
+         C:\Program Files (x86)\Microsoft Xbox 360 SDK\bin\win32\imagexex.exe /out:"C:\Users\Alex\Desktop\ImJtagModz W2 Tu8 Menu Base V2\dll_load\Debug\dll_load.dll" /baseaddr:"0x08000000" "C:\Users\Alex\Desktop\ImJtagModz W2 Tu8 Menu Base V2\dll_load\Debug\$dlllinker.dll" 
+         Microsoft(R) Xbox 360 Image File Builder Version 2.0.20871.0
+         (c)2011 Microsoft Corporation. All rights reserved.
+         
+       FinalizeBuildStatus:
+         Deleting file "Debug\dll_load.unsuccessfulbuild".
+         Touching "Debug\dll_load.lastbuildstate".
+     1>Done Building Project "C:\Users\Alex\Desktop\ImJtagModz W2 Tu8 Menu Base V2\dll_load\dll_load.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:07.08
